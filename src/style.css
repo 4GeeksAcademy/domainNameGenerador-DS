@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.title {
+  margin-left: 70px;
+  margin-top: 20px;
+}
